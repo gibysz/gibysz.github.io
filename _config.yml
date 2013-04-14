@@ -1,10 +1,10 @@
-Ôªø# ----------------------- #
+# ----------------------- #
 #      Main Configs       #
 # ----------------------- #
 
 url: http://gibysz.github.io
 title: kiwimore
-subtitle: ÂèëÁé∞ÊúâË∂£
+subtitle: ∑¢œ÷”–»§
 author: sz
 simple_search: http://www.google.com.hk/search
 description:
@@ -85,8 +85,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: 'gibysz'
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
