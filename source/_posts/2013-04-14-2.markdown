@@ -1,0 +1,9 @@
+---
+layout: post
+title: "测试"
+date: 2013-04-14 21:14
+comments: 测试
+categories: 
+---
+
+##测试一下评论功能
